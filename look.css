@@ -1,0 +1,27 @@
+.incorrect{
+    background-color: #ff4d50;
+}
+
+.correct{
+    background-color: #00FF00;
+}
+
+h1
+{
+   text-align: center;
+    color: blue;
+}
+
+#cr{
+    text-align: center;
+    color: blue;
+}
+
+body{
+    background-color: #FFFDD0;
+    border: 2px dotted red;
+}
+
+form{
+    height: 500px;
+}
